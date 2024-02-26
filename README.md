@@ -6,6 +6,9 @@ Final project for UB EE 379. The task was to recreate the Atari Asteroids game i
 * [Zybo Z7](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/) - FPGA board the program was loaded to
 * [PMod Display](https://digilent.com/reference/pmod/pmodmtds/start) - LCD display
 
+## Demo
+https://www.youtube.com/watch?v=LpBX4KFL6hI 
+
 ## Authors
 
 * **Kevin C** 
