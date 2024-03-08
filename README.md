@@ -9,7 +9,3 @@ Final project for UB EE 379. The task was to recreate the Atari Asteroids game i
 ## Demo
 https://www.youtube.com/watch?v=LpBX4KFL6hI 
 
-## Authors
-
-* **Kevin C** 
-* **Michelle M** 
